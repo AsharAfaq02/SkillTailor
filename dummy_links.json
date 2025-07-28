@@ -1,0 +1,90 @@
+{
+    "jobs": [
+      {
+        "title": "Data Scientist",
+        "courses": [
+          {
+            "name": "Data Science Specialization",
+            "url": "https://www.coursera.org/learn/data-science-specialization"
+          },
+          {
+            "name": "Machine Learning by Andrew Ng",
+            "url": "https://www.coursera.org/learn/machine-learning"
+          },
+          {
+            "name": "Deep Learning Specialization",
+            "url": "https://www.coursera.org/specializations/deep-learning"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "courses": [
+          {
+            "name": "Applied Machine Learning in Python",
+            "url": "https://www.coursera.org/learn/python-machine-learning"
+          },
+          {
+            "name": "Advanced Machine Learning Specialization",
+            "url": "https://www.coursera.org/specializations/aml"
+          },
+          {
+            "name": "TensorFlow in Practice",
+            "url": "https://www.coursera.org/specializations/tensorflow-in-practice"
+          }
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "courses": [
+          {
+            "name": "Java Programming and Software Engineering Fundamentals",
+            "url": "https://www.coursera.org/specializations/java-programming"
+          },
+          {
+            "name": "Algorithms Specialization",
+            "url": "https://www.coursera.org/specializations/algorithms"
+          },
+          {
+            "name": "Object Oriented Programming in Java",
+            "url": "https://www.coursera.org/learn/object-oriented-java"
+          }
+        ]
+      },
+      {
+        "title": "AI Researcher",
+        "courses": [
+          {
+            "name": "AI For Everyone",
+            "url": "https://www.coursera.org/learn/ai-for-everyone"
+          },
+          {
+            "name": "Natural Language Processing Specialization",
+            "url": "https://www.coursera.org/specializations/natural-language-processing"
+          },
+          {
+            "name": "Computer Vision Basics",
+            "url": "https://www.coursera.org/learn/computer-vision-basics"
+          }
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "courses": [
+          {
+            "name": "HTML, CSS, and JavaScript for Web Developers",
+            "url": "https://www.coursera.org/learn/html-css-javascript"
+          },
+          {
+            "name": "React Fundamentals",
+            "url": "https://www.coursera.org/learn/react-fundamentals"
+          },
+          {
+            "name": "Responsive Web Design",
+            "url": "https://www.coursera.org/learn/responsive-web-design"
+          }
+        ]
+      }
+    ]
+  }
+  

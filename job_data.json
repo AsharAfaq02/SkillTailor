@@ -1,0 +1,113 @@
+{
+    "jobs": [
+      {
+        "title": "Data Scientist",
+        "industry": "AI/Tech",
+        "key_skills": [
+          "Python",
+          "Machine Learning",
+          "Pandas & NumPy",
+          "Scikit-learn",
+          "Deep Learning (TensorFlow/PyTorch)",
+          "SQL",
+          "Data Visualization"
+        ],
+        "recommended_udemy_courses": [
+          "Python for Data Science and Machine Learning Bootcamp",
+          "Complete Machine Learning & Data Science: Zero to Mastery",
+          "Deep Learning A-Z: Hands-On Artificial Neural Networks"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "industry": "Tech",
+        "key_skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js",
+          "Tailwind CSS",
+          "TypeScript",
+          "Web Performance Optimization"
+        ],
+        "recommended_udemy_courses": [
+          "The Complete JavaScript Course 2024: From Zero to Expert!",
+          "React - The Complete Guide (incl Hooks, React Router, Redux)",
+          "Advanced CSS and Sass: Flexbox, Grid, Animations and More!"
+        ]
+      },
+      {
+        "title": "Financial Analyst",
+        "industry": "Finance",
+        "key_skills": [
+          "Financial Modeling",
+          "Excel",
+          "Valuation Techniques",
+          "Accounting Fundamentals",
+          "Forecasting",
+          "Power BI",
+          "Corporate Finance"
+        ],
+        "recommended_udemy_courses": [
+          "The Complete Financial Analyst Course 2024",
+          "Beginner to Pro in Excel: Financial Modeling and Valuation",
+          "Financial Analysis and Financial Modeling using MS Excel"
+        ]
+      },
+      {
+        "title": "Product Manager",
+        "industry": "Tech/Business",
+        "key_skills": [
+          "Agile Methodology",
+          "User Research",
+          "Roadmapping",
+          "JIRA",
+          "Market Analysis",
+          "Product Lifecycle",
+          "Cross-functional Communication"
+        ],
+        "recommended_udemy_courses": [
+          "Become a Product Manager | Learn the Skills & Get the Job",
+          "Agile Product Management with Scrum",
+          "Product Management 101"
+        ]
+      },
+      {
+        "title": "Digital Marketing Specialist",
+        "industry": "Business",
+        "key_skills": [
+          "SEO",
+          "Google Ads",
+          "Meta (Facebook) Ads",
+          "Email Marketing",
+          "Google Analytics",
+          "Copywriting",
+          "Marketing Funnels"
+        ],
+        "recommended_udemy_courses": [
+          "The Complete Digital Marketing Guide - 24 Courses in 1",
+          "Google Ads Masterclass",
+          "SEO 2024: Complete SEO Training + SEO for WordPress Websites"
+        ]
+      },
+      {
+        "title": "AI Engineer",
+        "industry": "AI/Tech",
+        "key_skills": [
+          "Deep Learning",
+          "Transformer Models",
+          "NLP",
+          "Computer Vision",
+          "Python",
+          "TensorFlow / PyTorch",
+          "Large Language Models (LLMs)"
+        ],
+        "recommended_udemy_courses": [
+          "Artificial Intelligence A-Z: Learn How to Build an AI",
+          "Natural Language Processing with Deep Learning in Python",
+          "PyTorch for Deep Learning and AI"
+        ]
+      }
+    ]
+  }
+  
